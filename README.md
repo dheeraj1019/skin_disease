@@ -1,2 +1,5 @@
-# skin_disease
-https://youtu.be/CfrZR_qoTss
+
+https://www.kaggle.com/datasets/syedalinaqvi/augmented-skin-conditions-image-dataset
+
+
+downlaod the datasets use the above link
